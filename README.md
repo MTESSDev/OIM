@@ -2,6 +2,10 @@
 
 OAM est un système d'agent Windows déployé sur les postes des agents de terrain. Il permet à un serveur central d'envoyer des commandes en temps réel aux postes (ex. : ouvrir une URL dans le navigateur) via SignalR, sans intervention manuelle de l'utilisateur.
 
+Nous vous invitons à consulter la [présentation complète](https://github.com/MTESSDev/OIM/blob/master/Documentation/Documents/OIM_Pr%C3%A9sentation%20Github.pptx) du système. Il est important de la télécharger et de l'ouvrir dans PowerPoint directement, car sinon, dans le navigateur, les gifs ne sont pas animés.
+
+[<img width="1913" height="1080" alt="image" src="https://github.com/user-attachments/assets/390fdee9-a795-4c07-98db-e64e37fcd683" />](https://github.com/MTESSDev/OIM/blob/master/Documentation/Documents/OIM_Pr%C3%A9sentation%20Github.pptx)
+
 ## Architecture
 
 ```mermaid
