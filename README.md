@@ -1,4 +1,4 @@
-# OIM — Outil d'Aide à la Mission
+# OIM — Orchestrateur d’Intermédiation Mutualisable
 
 OIM est un système d'agent Windows déployé sur les postes des agents de terrain. Il permet à un serveur central d'envoyer des commandes en temps réel aux postes (ex. : ouvrir une URL dans le navigateur) via SignalR, sans intervention manuelle de l'utilisateur.
 
